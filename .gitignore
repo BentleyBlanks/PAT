@@ -2,3 +2,14 @@ README~
 .gitignore~
 *.exe
 *.dll
+*.sln
+*.vcxproj
+*.suo
+*.filters
+*.obj
+*.tlog
+*.lastbuildstate
+*.idb
+*.pdb
+*.ilk
+*.log
